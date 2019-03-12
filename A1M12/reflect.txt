@@ -1,0 +1,5 @@
+Question 1. Can you think of a more efficient way to ask a user to add the required information to each data field?
+Answer 1: No, structure is the one of the best way to ask user to add required information because sturcture user created datatype so user can define sturcture base on the requirement.
+ 
+Question 2. Explain why a C string that is required to store up to 25 characters must be capable of storing 26 characters.
+Answer 2: String is one kind of characters array and last value of this array is NULLL. Due to the NULL character length of the string array size increase by one.
